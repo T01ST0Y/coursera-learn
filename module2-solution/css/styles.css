@@ -11,6 +11,14 @@ h1{
   margin: 40px;
 }
 
+h2{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border: solid 2px black;
+    margin: 0;
+}
+
 .menu-item{
   background-color: gray;
   padding: 20px;
