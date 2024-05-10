@@ -32,7 +32,7 @@ h3{
     width: 100%;
   }
 
-  .menu .col-sm-6:last-child + .col-md-4 {
+  .menu .col-sm-6:last-child + .col-sm-6 {
     width: 50%;
   }
 }
