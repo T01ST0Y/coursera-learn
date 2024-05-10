@@ -28,12 +28,8 @@ h3{
 }
 
 @media (max-width: 991px) {
-  .menu .col-sm-6:last-child {
+  .menu .col-sm-6:not(:last-child) + .col-sm-6 {
     width: 100%;
   }
+}
 
-  .menu .col-sm-6:last-child + .col-sm-6 {
-    width: 50%;
-  }
-}
-}
