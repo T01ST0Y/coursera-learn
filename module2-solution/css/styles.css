@@ -15,15 +15,16 @@ h2{
     position: absolute;
     top: 0px;
     right: 0px;
-    border: solid 2px black;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
     margin: 0;
-    padding: 4px;
+    padding: 4px 20px;
 }
 
 .menu-item{
   position: relative;
   background-color: gray;
-  padding: 20px;
+  padding: 40px 20px 20px 20px;
   border: solid 3px black;
 }
 
