@@ -13,7 +13,9 @@ margin: 0px;
   margin-left: 15px;
   margin-right: 15px;
 }
-
+.navbar-default {
+    border-color: #999999;
+}
 .menu-item{
   background-color: #999999;
   padding: 20px;
