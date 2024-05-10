@@ -28,7 +28,7 @@ h3{
 }
 
 @media (max-width: 991px) {
-  .row.justify-content-center>[class*="col-"]:first-child {
+  .row>[class*="col-"]:first-child {
     width: 100%;
   }
 }
