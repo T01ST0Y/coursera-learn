@@ -27,6 +27,8 @@ h3{
   margin-bottom: 20px;
 }
 
-.col-sm-6:nth-child(2):not(:last-child) + .col-sm-6 {
-  width: 100%;
+@media (min-width: 992px) {
+  .menu .col-md-4:last-child:not(:first-child) {
+    width: 100%;
+  }
 }
