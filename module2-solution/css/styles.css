@@ -25,11 +25,22 @@ h2{
 
 .menu-item{
   position: relative;
-  background-color: gray;
+  background-color: #999999;
   padding: 50px 20px 20px 20px;
   border: solid 3px black;
 }
 
+.chicken{
+  background-color: #d59898;
+}
+
+.beef{
+  background-color: #c14543;
+}
+
+.sushi{
+  background-color: #e5d198;
+}
 
 .row {
   width: 100%;
