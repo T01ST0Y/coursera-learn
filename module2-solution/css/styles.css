@@ -3,12 +3,18 @@
 }
 
 body{
-margin: 20px;
+  margin: 20px;
+}
+
+h1{
+  text-align: center;
+  margin: 40px;
 }
 
 .menu-item{
   background-color: gray;
   padding: 20px;
+  border: solid 3px black;
 }
 
 
