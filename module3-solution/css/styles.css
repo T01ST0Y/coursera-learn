@@ -28,7 +28,7 @@ h3{
 }
 
 @media (max-width: 991px) {
-  .row>[class*="col-"]:first-child {
+  .row>[class*="col-sm-6"]:first-child {
     width: 100%;
   }
 }
