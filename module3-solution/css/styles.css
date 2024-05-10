@@ -27,7 +27,7 @@ h3{
   margin-bottom: 20px;
 }
 
-@media (min-width: 992px) {
+@media (max-width: 991px) {
   .menu .col-md-4:last-child:not(:first-child) {
     width: 100%;
   }
