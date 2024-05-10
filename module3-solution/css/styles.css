@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+body{
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.menu-item{
+  background-color: #999999;
+  padding: 20px;
+}
