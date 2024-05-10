@@ -184,3 +184,13 @@ h2{
     width: 100%;
   }
 }
+
+
+@media (max-width: 767px) {
+  .col-sm-12 {
+    float: left;
+    padding: 20px;
+    flex-grow: 1;
+    width: 100%;
+  }
+}
