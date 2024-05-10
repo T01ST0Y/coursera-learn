@@ -28,7 +28,7 @@ h3{
 }
 
 @media (max-width: 991px) {
-      .menu .col-sm-6:last-child:nth-child(odd) {
-        width: 100%;
+.menu .col-sm-6:nth-last-child(odd) {
+  width: 100%;
 }
 }
