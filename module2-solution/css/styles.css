@@ -17,9 +17,11 @@ h2{
     right: 0px;
     border: solid 2px black;
     margin: 0;
+    padding: 4px;
 }
 
 .menu-item{
+  position: relative;
   background-color: gray;
   padding: 20px;
   border: solid 3px black;
